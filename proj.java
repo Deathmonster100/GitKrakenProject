@@ -1,3 +1,5 @@
+//Colin Lee - I learned how to use GitKraken and used lambdas for normal java methods.
+
 public class proj
 {
     interface PerfectSquare
